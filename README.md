@@ -58,6 +58,10 @@ Welcome to our Warehouse Inventory Management System (WHMS), a cutting-edge solu
 
 ![INDOTALENT WHMS](wwwroot/image-vertical.png)
 
+# Credit
+- Syncfusion Community License for UI Control. [https://www.syncfusion.com/products/communitylicense](https://www.syncfusion.com/products/communitylicense) 
+- AdminLTE for HTML Admin Template. [https://adminlte.io/](https://adminlte.io/)
+
 # Starred
 Help us grow by give a star.
 
