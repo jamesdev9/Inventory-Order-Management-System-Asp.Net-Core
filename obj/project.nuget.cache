@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEza0X5dR+fTETHP874BRfA2gQT5qAjK06h0m/y9Icln3Um99VZj2hLVUoQvwvqAD6Xdu2/lJJroZXY0LdmKiw==",
+  "dgSpecHash": "/l9Ri6WjUHmlIBNgPh01yTblKlzUF8//8LpwDnw0Bb1uKkM7yltyXUPF1cJw6u0xYvusOmF+C2u7Zpjt3D2ddw==",
   "success": true,
-  "projectFilePath": "C:\\_asp\\products\\WHMS-LTE-v8.2024.03.30-src-github\\Indotalent\\Indotalent.csproj",
+  "projectFilePath": "C:\\_github\\whms\\Indotalent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -10664,11 +10664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_asp\\products\\WHMS-LTE-v8.2024.03.30-src-github\\Indotalent\\Indotalent.csproj",
+      "projectUniqueName": "C:\\_github\\whms\\Indotalent.csproj",
       "projectName": "Indotalent",
-      "projectPath": "C:\\_asp\\products\\WHMS-LTE-v8.2024.03.30-src-github\\Indotalent\\Indotalent.csproj",
+      "projectPath": "C:\\_github\\whms\\Indotalent.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\_asp\\products\\WHMS-LTE-v8.2024.03.30-src-github\\Indotalent\\obj\\",
+      "outputPath": "C:\\_github\\whms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
