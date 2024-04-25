@@ -13,15 +13,17 @@ namespace Indotalent.Infrastructures.Currencies
             {
                 RegionInfo region = new RegionInfo(ci.Name);
                 string currencySymbol = region.CurrencySymbol;
-                string currencyName = region.ISOCurrencySymbol;
                 string currencyEnglishName = region.CurrencyEnglishName;
 
-                if (!string.IsNullOrEmpty(currencySymbol) && !currencies.Any(c => c.Value == currencySymbol))
+                var value = currencySymbol;
+                var text = $"{currencyEnglishName} - {currencySymbol}";
+
+                if (!string.IsNullOrEmpty(currencySymbol) && !currencies.Any(c => c.Text == text))
                 {
                     currencies.Add(new SelectListItem
                     {
-                        Value = currencySymbol,
-                        Text = $"{currencyEnglishName} - {currencySymbol}"
+                        Value = value,
+                        Text = text
                     });
                 }
             }
