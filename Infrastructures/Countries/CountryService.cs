@@ -12,10 +12,11 @@ namespace Indotalent.Infrastructures.Countries
             foreach (CultureInfo ci in CultureInfo.GetCultures(CultureTypes.SpecificCultures))
             {
                 RegionInfo region = new RegionInfo(ci.Name);
-                string countryName = region.DisplayName;
+                string countryName = region.EnglishName;
 
                 if (!countries.Any(c => c.Text == countryName))
                 {
+
                     var countryItem = new SelectListItem
                     {
                         Value = countryName,
