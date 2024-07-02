@@ -91,5 +91,4 @@ Help us grow by give a star.
 This project supported by: INDOTALENT [https://store.indotalent.com](https://store.indotalent.com). Feel free to visit their site and use 50% discount using discount code: **GITHUB50**
 ![WHMS PRO](wwwroot/whms-pro-warehouse-inventory-management.png)
 
-[Online Dashboard Designer](https://www.youtube.com/watch?v=1sZoJ53Qocw&t=1s)
-![Online Dashboard Designer](wwwroot/online-dashboard-designer.JPG)
+
